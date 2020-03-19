@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001_World","order":1,"parentId":0,"scrollX":820,"scrollY":513},
+{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":1,"scrollX":816,"scrollY":513},
+{"id":3,"expanded":false,"name":"MAP003_mine_with_wife","order":3,"parentId":1,"scrollX":811,"scrollY":773}
+]
